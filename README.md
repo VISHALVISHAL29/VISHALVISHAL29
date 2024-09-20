@@ -18,11 +18,10 @@
 <!--Intro start-->
 - 👋 Hi, I’m Vishal
 - 👀 I’m interested in Web developmemt, Mobile App development, Cloud Computing and Blockchain Applications.
-- 🌱 I’m a MERN Stack developer and an ML developer in making.
+- 🌱 I’m a MERN and a Mobile App developer.
 - 💞️ I’m looking to collaborate on all projects that intrigue me.
 - 💯 I use github to host anything that I believe could be worth sharing with the world.
-- 🕸️ Portfolio: https://vocarista.com
-- 📫 How to reach me: vocarista@gmail.com
+- 📫 How to reach me: vishalbhartdwaj2903@gmail.com
 <!--Intro end-->
 
 
@@ -34,9 +33,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vocarista&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VISHALVISHAL29&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vocarista&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VISHALVISHAL29&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -51,7 +50,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=vocarista&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=VISHALVISHAL29&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -70,7 +69,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,bootstrap,c,cpp,css,discord,mongodb,express,github,html,idea,java,spring,js,ts,linux,md,materialui,mysql,nodejs,nextjs,postman,py,tensorflow,react,redux,tailwind,vscode,ps,vercel,vite,bash,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,bootstrap,c,cpp,css,discord,mongodb,express,github,html,idea,java,kotlin,spring,js,linux,md,materialui,mysql,postgresql,nodejs,firebase,postman,react,npm,redux,tailwind,vscode,vercel,vite,bash,&perline=10" />
   </a>
 </p>
 
@@ -85,8 +84,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/vocarista/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/vocarista/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/vishal-bhartdwaj-b046a2247/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/vish.albhrtdwaj/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
   
 </p>
 
